@@ -1,7 +1,5 @@
 ### Here is What I'm Working On! 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... [RESTful API and Web App](https://github.com/georgearion/happytours)
 - 🌱 I’m currently learning ... MEVN Stack
 - 💬 Ask me about ... Anything
